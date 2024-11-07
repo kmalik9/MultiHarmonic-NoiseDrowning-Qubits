@@ -33,7 +33,7 @@ A_d3 = 0.05 * omega_q1      # Amplitude for third harmonic
 ## Results
 The plot below shows the state probabilities over time under the MHCND-SD protocol with stochastic noise:
 
-![image|500](https://github.com/user-attachments/assets/1da10969-7117-4d5e-9a76-f793f96b17bf)
+![image|200](https://github.com/user-attachments/assets/1da10969-7117-4d5e-9a76-f793f96b17bf)
 
 <span style="color: white;">*Figure 1: State probabilities of the 2-qubit system simulated over 500 ns under MHCND-SD protocol with stochastic noise.*</span>
 
