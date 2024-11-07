@@ -33,9 +33,9 @@ A_d3 = 0.05 * omega_q1      # Amplitude for third harmonic
 ## Results
 The plot below shows the state probabilities over time under the MHCND-SD protocol with stochastic noise:
 
-![image](https://github.com/user-attachments/assets/52c716ee-ef1c-477d-88fb-50c578f05e6f)
+![image|500](https://github.com/user-attachments/assets/52c716ee-ef1c-477d-88fb-50c578f05e6f)
 
-*Figure 1: State probabilities of the 2-qubit system simulated over 500 ns under MHCND-SD protocol with stochastic noise.*
+<span style="color: white;">*Figure 1: State probabilities of the 2-qubit system simulated over 500 ns under MHCND-SD protocol with stochastic noise.*</span>
 
 ## References
 1. S. E. Nigg, H. Paik, B. Vlastakis, G. Kirchmair, S. Shankar, L. Frunzio, M. H. Devoret, and R. J. Schoelkopf, "Fast superconducting qubit control with sub-harmonic drives," *arXiv preprint arXiv:2306.10162*, 2023. [Online]. Available: https://arxiv.org/abs/2306.10162
