@@ -4,7 +4,7 @@ Implementation of Multi-Harmonic Controlled Noise Drowning with Subharmonic Driv
 ## Overview
 This repository demonstrates the Multi-Harmonic Controlled Noise Drowning with Subharmonic Driving (MHCND-SD) methodology for enhancing qubit stability in quantum computing, implemented in Qiskit.
 
-MHCND-SD combines controlled noise drowning with subharmonic driving frequencies to mitigate high-frequency environmental noise, thereby extending qubit coherence times. This approach offers a scalable, energy-efficient alternative to traditional quantum error correction methods.
+MHCND-SD combines controlled noise drowning with subharmonic driving frequencies to mitigate high-frequency environmental noise, thereby extending qubit coherence times. This approach offers a scalable, energy-efficient alternative to traditional quantum error correction methods. For more information, please see the full paper in this repo.
 
 ## Project Contents
 - **notebooks/**: Contains Jupyter Notebooks with code implementing the MHCND-SD approach in Qiskit.
@@ -47,6 +47,3 @@ The plot below shows the state probabilities over time under the MHCND-SD protoc
 4. K. Fujii and K. Nakajima, "Quantum reservoir computing: a reservoir approach toward quantum machine learning on near-term quantum devices," *arXiv preprint arXiv:2011.04890*, 2020. [Online]. Available: https://arxiv.org/abs/2011.04890
 
 5. T. O. MacLean, T. F. O'Brien, P. S. Żuchowski, and D. Jaksch, "Quantum Reservoir Computing Using Arrays of Rydberg Atoms," *PRX Quantum*, vol. 3, p. 030325, 2022. [Online]. Available: https://link.aps.org/doi/10.1103/PRXQuantum.3.030325
-
-## Contact
-For any questions, please reach out to [Your Contact Info].
